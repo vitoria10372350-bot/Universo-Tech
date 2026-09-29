@@ -115,3 +115,19 @@ footer {
         padding: 20px;
     }
 }
+#voltarTopo {
+    display: none;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    padding: 12px 20px;
+    background-color: #2563eb;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+#voltarTopo:hover {
+    background-color: #172554;
+}
