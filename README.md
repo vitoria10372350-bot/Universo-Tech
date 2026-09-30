@@ -34,4 +34,4 @@ Nome completo: Vitoria Cristina da Cunha Sales
 
 ## Site publicado
 
-COLOQUE AQUI O LINK DO SEU SITE
+https://vitoria10372350-bot.github.io/Universo-Tech/
